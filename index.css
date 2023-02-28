@@ -1,0 +1,191 @@
+.kub {
+    width: 300px;
+    height: 150px;
+    border-radius: 7px;
+    font-size: 50px;
+    margin-top: 0%;
+    font-weight: bold;
+    margin-left: 4%;
+    color: blue;
+}
+
+.main-block{
+  width: 800px;
+  height: 700px;
+  background-color: #474747;
+  margin: 0%;
+  margin-top: -8%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  border: #00a550;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.main{
+    background-color: #1a1a1a;
+    font-family: impact, normal;
+}
+
+.dice_1{
+  width: 75px;
+  height: 75px;
+  background-color: #00a550;
+  border-radius: 7px;
+  margin-top: 0%;
+  margin-left: 0%; 
+}
+
+.dice_2{
+  width: 75px;
+  height: 75px;
+  background-color: #00a550;
+  border-radius: 7px;
+  margin-left: auto;
+  margin-top: -28%;
+}
+
+.group-dice{
+  width: auto;
+  height: auto;
+  margin: 30%;
+  margin-top: 11%;
+}
+
+.button-dice{
+  border-radius: 30px;
+  height: 110px;
+  width: 330px;
+  font-size: 38px;
+  background-color: #00a550;
+  border-color: black;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.button-dice:hover {
+  background-color: #00773a;
+}
+
+.button-dice:active {
+  background-color: #00351a;
+}
+
+.main-text{
+    margin-top: 10%;
+    font-weight: bold;
+    color: #1a1a1a;
+}
+
+.random_dice_1{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 50%;
+  line-height : 180%;
+}
+
+.random_dice_2{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 20%;
+  line-height : 180%;
+}
+
+.group-button{
+  height: 110px;
+  width: 330px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mode-name{
+  font-size: 40px;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.under-block{
+  width: 800px;
+  background-color:black;
+  border-color: black;
+  border-width: 20px;
+  height: 3px;
+  margin-top: 8%;
+}
+
+.support{
+  font-size: 12px;
+  cursor: pointer;
+  float: left
+}
+
+.support:hover{
+  background-color: gray;
+}
+
+.support:active{
+  background-color: black;
+}
+
+.agreement{
+  font-size: 12px;
+  cursor: pointer;
+  float: right;
+}
+
+.agreement:hover{
+  background-color: gray;
+}
+
+.agreement:active{
+  background-color: black;
+}
+
+.agreement-text{
+  font-size: 24px;
+}
+
+.next-page{
+  margin-left: 24%;
+  cursor: pointer;
+}
+
+.next-page:hover{
+  background-color: gray;
+}
+
+.next-page:active{
+  background-color: black;
+}
+
+.profile-group{
+  float: right;
+  width: 350px;
+  height: 200px;
+  background-color: #00a550;
+  margin-top: -33%;
+  border-radius: 20px;
+}
+
+.user-name-id{
+  margin-top: 10%;
+  line-height: 2px;
+  margin-left: 5%;
+}
+
+.user-name{
+  font-size: 20px;
+}
+
+.user-id{
+  font-size: 14px;
+}
+
+.refill-balance{
+  width: 10px;
+  height: 10px;
+  background-color: black;
+  float:right;
+}
